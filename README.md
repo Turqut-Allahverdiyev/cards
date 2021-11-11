@@ -1,2 +1,0 @@
-# cards
-getmapping and postmapping
