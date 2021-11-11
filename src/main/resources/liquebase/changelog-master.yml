@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - includeAll:
+      path: liquebase/1.0
